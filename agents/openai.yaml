@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 技能安装"
+  short_description: "按一个或多个 GitHub 链接安装技能，展示已有技能的文件变更并按选择备份更新"
+  default_prompt: "使用 $skill-github-pull 安装我提供的 GitHub 链接中的技能；已安装且内容不同时，先展示变更并等我选择。"
